@@ -1,0 +1,51 @@
+.metadata
+
+bin/
+
+tmp/
+
+*.tmp
+
+*.bak
+
+*.swp
+
+*~.nib
+
+local.properties
+
+.settings/
+
+.loadpath
+
+.recommenders
+ 
+# External tool buildersnalToolBuilders/ed "Eclipse launch configurations" yDev specific (Python IDE for Eclipse)
+
+*.pydevproject
+ # CDT-specific (C/C++ Development Tooling) roject
+
+# CDT- autotools
+
+.autotools
+ 
+# Java annotation processor (APT)ypath DT-specific (PHP Development Tools)
+
+.buildpath
+ 
+# sbteclipse plugingetn pluginn-project se plugin
+
+.texlipse
+ # STS (Spring Tool Suite) ringBeans
+
+# Code Recommenders
+
+.recommenders/
+ # Annotation Processing t_generated/
+
+.apt_generated_test/
+ 
+# Scala IDE specific (Scala & Java development for Eclipse) endencies
+
+.worksheet
+ 
