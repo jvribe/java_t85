@@ -25,8 +25,6 @@ public class Exe02 {
 		
 		System.out.printf("\nMédia do Aluno: (%.1f + %.1f + %.1f +%.1f)/4 = %.1f ", 
 				nota1, nota2, nota3, nota4, (nota1 + nota2 + nota3 + nota4)/4);
-
-		
 		
 		leia.close();
 	}
