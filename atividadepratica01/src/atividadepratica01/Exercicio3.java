@@ -71,7 +71,6 @@ public class Exercicio3 {
 		
         leia.close();
 				
-
 	}
 
 }
