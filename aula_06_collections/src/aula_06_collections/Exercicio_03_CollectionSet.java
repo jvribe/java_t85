@@ -14,8 +14,8 @@ public class Exercicio_03_CollectionSet {
         Set<Integer> numeros = new HashSet<>();
 
         // Entrada de 10 números
-        for (int i = 1; i <= 10; i++) {
-            System.out.print("Digite o " + i + "º número: ");
+        for (int contador = 1; contador <= 10; contador++) {
+            System.out.print("Digite o " + contador + "º número: ");
             numeros.add(leia.nextInt());
         }
 
