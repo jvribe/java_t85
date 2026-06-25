@@ -6,7 +6,8 @@ public class DriverException extends Exception {
 
 	public DriverException() { }
 	public DriverException(String mensagem) { 
-
+		super(mensagem);
+		
 	}
 
 }
