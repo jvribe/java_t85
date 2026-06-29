@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>aula_04_repeticoes</name>
+	<name>aula_11_lambda</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -16,7 +16,7 @@
 	</natures>
 	<filteredResources>
 		<filter>
-			<id>1782500646996</id>
+			<id>1782500647003</id>
 			<name></name>
 			<type>30</type>
 			<matcher>
